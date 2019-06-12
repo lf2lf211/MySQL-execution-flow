@@ -134,9 +134,7 @@ Multi-Version Concurrency Control多版本並發控制，MVCC 是一種並發控
 
 
 ## 參考 
- > [MySQL中一条SQL语句的执行过程](https://blog.csdn.net/finalkof1983/article/details/84450896)
- > [name= 一梦如是YFL] [time= Nov 24, 2018 18:35 PM]
- > [【Mysql】 update语句更新原理](https://blog.csdn.net/w372426096/article/details/88057365)
- > [name=  Franco蜡笔小强][time= Mar 01, 2019 14:44 PM]
- > [MySQL -update语句流程总结](https://blog.csdn.net/weixin_34161064/article/details/87986896)
- > [name=  njit_peiyuan ][time= Dec 29, 2018 03:29 AM]
+ > [一梦如是YFL-MySQL中一条SQL语句的执行过程](https://blog.csdn.net/finalkof1983/article/details/84450896)
+ > [Franco蜡笔小强-【Mysql】 update语句更新原理](https://blog.csdn.net/w372426096/article/details/88057365)
+ > [njit_peiyuan-MySQL -update语句流程总结](https://blog.csdn.net/weixin_34161064/article/details/87986896)
+
