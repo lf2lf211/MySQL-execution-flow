@@ -1,9 +1,6 @@
 # MySQL-execution-flow
 
 
-
-[TOC]
-
 # 作者
 [lf2lf211](https://github.com/lf2lf211)
 
