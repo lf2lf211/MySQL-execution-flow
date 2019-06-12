@@ -49,9 +49,10 @@
 | 連線 |
 | -------- | 
 | begin;     |
-| SELECT * from city where id = "1"  lock in share mode;
-|
-[其他鎖](https://blog.csdn.net/puhaiyang/article/details/72284702) 
+| SELECT * from city where id = "1"  lock in share mode;|
+
+
+[其他鎖](https://blog.csdn.net/puhaiyang/article/details/72284702) <br>
 [補充](https://blog.csdn.net/bohu83/article/details/82493737) 
 
 ### **undo log**
