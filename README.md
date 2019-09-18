@@ -4,11 +4,6 @@
 # 作者
 [lf2lf211](https://github.com/lf2lf211)
 
-# MySQL SQL Query 過程(待整理)
-
-## 參考 
-# MySQL SQL insert過程(待整理)
-
 ## 參考 
 # MySQL SQL update 過程(整理版)
 
@@ -139,4 +134,9 @@ Multi-Version Concurrency Control多版本並發控制，MVCC 是一種並發控
  > [一梦如是YFL-MySQL中一条SQL语句的执行过程](https://blog.csdn.net/finalkof1983/article/details/84450896)、
  > [Franco蜡笔小强-【Mysql】 update语句更新原理](https://blog.csdn.net/w372426096/article/details/88057365)、
  > [njit_peiyuan-MySQL -update语句流程总结](https://blog.csdn.net/weixin_34161064/article/details/87986896)、
+ 
 
+# MySQL SQL Query 過程(待整理)
+
+## 參考 
+# MySQL SQL insert過程(待整理)
